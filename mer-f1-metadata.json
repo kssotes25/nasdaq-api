@@ -1,0 +1,37 @@
+{
+  "datatable": {
+    "vendor_code": "MER",
+    "datatable_code": "F1",
+    "name": "Mergent Global Fundamentals Data",
+    "description": null,
+    "columns": [],
+    "filters": [
+      "compnumber",
+      "reportid",
+      "mapcode",
+      "reportdate",
+      "reporttype",
+      "ticker",
+      "exchange",
+      "countrycode",
+      "mic"
+    ],
+    "primary_key": [
+      "compnumber",
+      "reportid",
+      "mapcode"
+    ],
+    "premium": true,
+    "status": {
+      "refreshed_at": "2025-12-02T04:01:16.000Z",
+      "status": "ON TIME",
+      "expected_at": "30 3 * * 2-6",
+      "update_frequency": "3:30am every Tuesday through Saturday"
+    },
+    "data_version": {
+      "code": "1",
+      "default": true,
+      "description": null
+    }
+  }
+}

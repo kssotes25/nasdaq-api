@@ -1,0 +1,6 @@
+# Python
+__pychache__/
+
+
+# Environment variables file
+.env
