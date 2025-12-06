@@ -1,6 +1,5 @@
 # Python
-__pychache__/
-
+__pycache__/
 
 # Environment variables file
 .env
