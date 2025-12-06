@@ -5,7 +5,7 @@ This personal project involves importing financial data using Nasdaq Data Link A
 
 ## Objectives
 - Learn the fundamentals of API
-- Apply basic data cleaning using Python
+- Apply basic data cleansing using Python
 - Perform basic analysis on common financial indicator
 - Create a simple data visualization
 
@@ -17,12 +17,22 @@ Nasdaq Data Link's MER/F1 data tables refer to **Mergent Global Fundamentals dat
 **EBITDA Margin** is a financial indicator that shows how much a company earns from its core operations as a percentage of revenue, where EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) strips our non-operating costs like debt, taxes, and asset write-downs. This profitability ratio mainly reveals the companies' operational efficiency, and a higher margin means better operational profitability and cost management. Thus, it is used to compare businesses across industries.  
 
 ### Analysis and Visualization
-**EBITDA Margin Distrbution Across Companies**
-<img src= "output/ebitda_margin_distribution.png" width='300'>
+**Figure 1. EBITDA Margin Distribution**
+<br>
+<br>
+<img src= "output/ebitda_margin_distribution.png" width='700'>
+<br>
+<br>
 
-**EBITDA Margin Distribution Group By Country**
-<img src= "output/ebitda_margin_boxplot_by_country.png" width='300'>
-
-**(sorted) EBITDA Margin Distribution Group by Country**
-<img src= "output/ebitda_margin_boxplot_by_country_sorted.png" width='300'>
-
+**Figure 2. EBITDA Margin Distribution Group by Country**
+<br>
+<br>
+<img src= "output/ebitda_margin_boxplot_by_country.png" width='700'>
+<br>
+<br>
+**Figure 3. (Sorted) EBITDA Margin Distribution Group by Country**
+<br>
+<br>
+<img src= "output/ebitda_margin_boxplot_by_country_sorted.png" width='700'>
+<br>
+<br>
